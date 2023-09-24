@@ -1,0 +1,13 @@
+body{
+    background-color: #d4c2a5;
+}
+ul a,ul{
+    list-style: none;
+    color: #d4c2a5;
+}
+.nav-header{
+    background-color: #943c05;
+}
+#link{
+    color: #9cb2c4;
+}
